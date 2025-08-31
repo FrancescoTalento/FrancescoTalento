@@ -9,8 +9,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
-- 🌱 I’m currently learning **Web Development, Firebase and Fullstack Tools**  
-- 🛠️ Building: a family shopping list app using `localStorage` + `AWS`  
+
 - 📫 How to reach me: **francescotalento281@gmail.com** 
 - ⚡ Fun fact: I code better with coffe ☕
 
